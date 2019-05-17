@@ -1,0 +1,60 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Haxby%
+\ \protect \BOthers {.}}{%
+Haxby%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2001}}%
+}]{%
+Haxby:Science:2001}
+\APACinsertmetastar {%
+Haxby:Science:2001}%
+\begin{APACrefauthors}%
+Haxby, J\BPBI V.%
+, Gobbini, M\BPBI I.%
+, Furey, M\BPBI L.%
+, Ishai, A.%
+, Schouten, J\BPBI L.%
+\BCBL {}\ \BBA {} Pietrini, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Distributed and overlapping representations of faces and
+  objects in ventral temporal cortex.} {Distributed and overlapping
+  representations of faces and objects in ventral temporal cortex.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science}{293}{5539}{2425-30}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kanwisher%
+, McDermott%
+\BCBL {}\ \BBA {} Chun%
+}{%
+Kanwisher%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1997}}%
+}]{%
+kanwisher1997fusiform}
+\APACinsertmetastar {%
+kanwisher1997fusiform}%
+\begin{APACrefauthors}%
+Kanwisher, N.%
+, McDermott, J.%
+\BCBL {}\ \BBA {} Chun, M\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The fusiform face area: a module in human extrastriate
+  cortex specialized for face perception} {The fusiform face area: a module in
+  human extrastriate cortex specialized for face perception}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Neuroscience}{17}{11}{4302-4311}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,56 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{About the Program}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{About this Manual}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Internal Hyperlinks}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{External Hyperlinks}{subsection.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.3}{Other Documentation}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Installation}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{System Requirements}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Dependencies}{subsection.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.2}{Download}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Install}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{Run}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.5}{Uninstall}{section.2}% 13
+\BOOKMARK [1][-]{section.3}{Overview}{}% 14
+\BOOKMARK [2][-]{subsection.3.1}{Getting Started}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Create a new project button}{subsection.3.1}% 16
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Load an existing project button}{subsection.3.1}% 17
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Use the Default project button}{subsection.3.1}% 18
+\BOOKMARK [2][-]{subsection.3.2}{General Information}{section.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Autosave}{subsection.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.3}{Overview of Interface}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.4}{Tabs}{section.3}% 22
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Design}{subsection.3.4}% 23
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Visualize}{subsection.3.4}% 24
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Simulate}{subsection.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.5}{Help}{section.3}% 26
+\BOOKMARK [3][-]{subsubsection.3.5.1}{The Load Example Button}{subsection.3.5}% 27
+\BOOKMARK [3][-]{subsubsection.3.5.2}{The Help Button}{subsection.3.5}% 28
+\BOOKMARK [3][-]{subsubsection.3.5.3}{The Revert Button}{subsection.3.5}% 29
+\BOOKMARK [3][-]{subsubsection.3.5.4}{Debug Windows}{subsection.3.5}% 30
+\BOOKMARK [3][-]{subsubsection.3.5.5}{Further Assistance}{subsection.3.5}% 31
+\BOOKMARK [1][-]{section.4}{Prior Considerations}{}% 32
+\BOOKMARK [2][-]{subsection.4.1}{Establish Task}{section.4}% 33
+\BOOKMARK [2][-]{subsection.4.2}{Minimum Event Hierarchy}{section.4}% 34
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Examples}{subsection.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.3}{Define Experimental Constraints}{section.4}% 36
+\BOOKMARK [1][-]{section.5}{Design Tab}{}% 37
+\BOOKMARK [2][-]{subsection.5.1}{Overview}{section.5}% 38
+\BOOKMARK [2][-]{subsection.5.2}{Event Definition Table}{section.5}% 39
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Event Definition Examples}{subsection.5.2}% 40
+\BOOKMARK [2][-]{subsection.5.3}{Event Configuration Table}{section.5}% 41
+\BOOKMARK [2][-]{subsection.5.4}{The Event Plot}{section.5}% 42
+\BOOKMARK [1][-]{section.6}{Visualize Tab}{}% 43
+\BOOKMARK [2][-]{subsection.6.1}{Overview of Interface}{section.6}% 44
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Events}{subsection.6.1}% 45
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Parameters}{subsection.6.1}% 46
+\BOOKMARK [3][-]{subsubsection.6.1.3}{Options}{subsection.6.1}% 47
+\BOOKMARK [3][-]{subsubsection.6.1.4}{Visualizer}{subsection.6.1}% 48
+\BOOKMARK [2][-]{subsection.6.2}{Comparing Variants}{section.6}% 49
+\BOOKMARK [1][-]{section.7}{Simulate Tab}{}% 50
+\BOOKMARK [2][-]{subsection.7.1}{Overview of Interface}{section.7}% 51
+\BOOKMARK [3][-]{subsubsection.7.1.1}{Events}{subsection.7.1}% 52
+\BOOKMARK [3][-]{subsubsection.7.1.2}{Parameters}{subsection.7.1}% 53
+\BOOKMARK [3][-]{subsubsection.7.1.3}{Options}{subsection.7.1}% 54
+\BOOKMARK [3][-]{subsubsection.7.1.4}{Visualizer}{subsection.7.1}% 55
+\BOOKMARK [3][-]{subsubsection.7.1.5}{Simulation}{subsection.7.1}% 56

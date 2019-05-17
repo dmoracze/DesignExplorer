@@ -1,0 +1,58 @@
+\select@language {english}
+\select@language {english}
+\contentsline {section}{\numberline {}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}About the Program}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}About this Manual}{1}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Internal Hyperlinks}{1}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}External Hyperlinks}{1}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Other Documentation}{1}{subsection.1.3}
+\contentsline {section}{\numberline {}Installation}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}System Requirements}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Dependencies}{2}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}Download}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Install}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Run}{2}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Uninstall}{2}{subsection.2.5}
+\contentsline {section}{\numberline {}Overview}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Getting Started}{3}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Create a new project button}{3}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Load an existing project button}{3}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Use the Default project button}{4}{subsubsection.3.1.3}
+\contentsline {subsection}{\numberline {3.2}General Information}{4}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Autosave}{4}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Overview of Interface}{4}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Tabs}{5}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Design}{5}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Visualize}{5}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Simulate}{6}{subsubsection.3.4.3}
+\contentsline {subsection}{\numberline {3.5}Help}{6}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}The Load Example Button}{6}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}The Help Button}{6}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}The Revert Button}{6}{subsubsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.4}Debug Windows}{6}{subsubsection.3.5.4}
+\contentsline {subsubsection}{\numberline {3.5.5}Further Assistance}{6}{subsubsection.3.5.5}
+\contentsline {section}{\numberline {}Prior Considerations}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Establish Task}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Minimum Event Hierarchy}{7}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Examples}{7}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}Define Experimental Constraints}{8}{subsection.4.3}
+\contentsline {section}{\numberline {}Design Tab}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Overview}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Event Definition Table}{10}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Event Definition Examples}{10}{subsubsection.5.2.1}
+\contentsline {subsection}{\numberline {5.3}Event Configuration Table}{10}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}The Event Plot}{10}{subsection.5.4}
+\contentsline {section}{\numberline {}Visualize Tab}{10}{section.6}
+\contentsline {subsection}{\numberline {6.1}Overview of Interface}{10}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Events}{10}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Parameters}{10}{subsubsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6.1.3}Options}{10}{subsubsection.6.1.3}
+\contentsline {subsubsection}{\numberline {6.1.4}Visualizer}{10}{subsubsection.6.1.4}
+\contentsline {subsection}{\numberline {6.2}Comparing Variants}{10}{subsection.6.2}
+\contentsline {section}{\numberline {}Simulate Tab}{10}{section.7}
+\contentsline {subsection}{\numberline {7.1}Overview of Interface}{10}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}Events}{10}{subsubsection.7.1.1}
+\contentsline {subsubsection}{\numberline {7.1.2}Parameters}{10}{subsubsection.7.1.2}
+\contentsline {subsubsection}{\numberline {7.1.3}Options}{10}{subsubsection.7.1.3}
+\contentsline {subsubsection}{\numberline {7.1.4}Visualizer}{10}{subsubsection.7.1.4}
+\contentsline {subsubsection}{\numberline {7.1.5}Simulation}{10}{subsubsection.7.1.5}
